@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="robobinding-0.8.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/robobinding-0.8.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
